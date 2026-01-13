@@ -4,7 +4,8 @@ A clean demo of a rotating navigation menu using CSS transforms and minimal Java
 
 Demo
 
-  <video src="Rotating Navigation.mp4" controls width="640">Your browser does not support the video tag.</video>
+
+https://github.com/user-attachments/assets/b444c35b-0ab7-4a68-9665-89f631e6ec37
 
 
 Quick start
